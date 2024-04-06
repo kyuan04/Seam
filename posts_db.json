@@ -1,0 +1,134 @@
+[
+    {
+        "postId": 1,
+        "title": "title 1",
+        "content": "content 1",
+        "author": "author 1",
+        "comments": [
+            {
+                "id": 1,
+                "postId": 1,
+                "content": "First comment",
+                "author": "Commenter 1"
+            },
+            {
+                "id": 4,
+                "postId": 1,
+                "content": "content",
+                "author": "author"
+            },
+            {
+                "id": 5,
+                "postId": 1,
+                "content": "content",
+                "author": "author"
+            }
+        ]
+    },
+    {
+        "postId": 2,
+        "title": "title",
+        "content": "content",
+        "author": "author",
+        "comments": [
+            {
+                "id": 7,
+                "postId": 2,
+                "content": "content",
+                "author": "author"
+            },
+            {
+                "id": 8,
+                "postId": 2,
+                "content": "content",
+                "author": "author"
+            }
+        ]
+    },
+    {
+        "postId": 3,
+        "title": "title",
+        "content": "content",
+        "author": "author",
+        "comments": [
+            {
+                "id": 9,
+                "postId": 3,
+                "content": "content",
+                "author": "author"
+            },
+            {
+                "id": 10,
+                "postId": 3,
+                "content": "content",
+                "author": "author"
+            },
+            {
+                "id": 11,
+                "postId": 3,
+                "content": "content",
+                "author": "author"
+            },
+            {
+                "id": 12,
+                "postId": 3,
+                "content": "content",
+                "author": "author"
+            }
+        ]
+    },
+    {
+        "postId": 4,
+        "title": "title",
+        "content": "content",
+        "author": "author",
+        "comments": [
+            {
+                "id": 6,
+                "postId": 12,
+                "content": "content",
+                "author": "author"
+            }
+        ]
+    },
+    {
+        "postId": 5,
+        "title": "title",
+        "content": "content",
+        "author": "author",
+        "comments": [
+            {
+                "id": 13,
+                "postId": 5,
+                "content": "content",
+                "author": "author"
+            }
+        ]
+    },
+    {
+        "postId": 6,
+        "title": "title",
+        "content": "content",
+        "author": "author",
+        "comments": [
+            {
+                "id": 14,
+                "postId": 6,
+                "content": "content",
+                "author": "author"
+            },
+            {
+                "id": 15,
+                "postId": 6,
+                "content": "content",
+                "author": "author"
+            },
+            {
+                "id": 16,
+                "postId": 6,
+                "content": "content",
+                "author": "author"
+            }
+        ]
+    }
+]
